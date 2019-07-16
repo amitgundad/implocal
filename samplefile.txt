@@ -1,0 +1,2 @@
+This is the sample document used for GIT demo.
+This is the new line
